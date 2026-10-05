@@ -23,7 +23,7 @@ The goal is to transform raw educational data into meaningful visual insights us
 
 ## 📈 Dashboard
 
-![Student Performance Dashboard](Student_Performance_Dashboard.png)
+![Student Performance Dashboard](dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
